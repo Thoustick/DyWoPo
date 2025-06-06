@@ -1,0 +1,7 @@
+# Go
+*.exe
+*.out
+*.log
+*.tmp
+*.swp
+vendor/
